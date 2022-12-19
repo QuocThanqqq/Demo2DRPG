@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/b1.unity
+    guid: 70e944162f12eb145af1f31a82d5151c
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/b2.unity
+    guid: 0fb1a6d5dee5c8c42add77f18e45023a
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/b3.unity
+    guid: 286ded1d44ff38142a9c15879fd68474
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/b4.unity
+    guid: 5aae4a50f29d18841add1744e9aed7a2
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/b5.unity
+    guid: f3bdb61952315ad4dbd9b78d74e3293b
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/b6.unity
+    guid: 557738cbe8848764e863b737e9411d88
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/Boost_1.unity
+    guid: 39b65af4d47ad3f438fb4398a423533e
+  - enabled: 1
+    path: Assets/Bai Tap 1/Screen/Cutscreen.unity
+    guid: de493fd74dbe9944d9a3c44e07d71bd9
+  m_configObjects: {}
